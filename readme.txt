@@ -1,1 +1,3 @@
 Homesickness is a problem among stu-dents at many universities. Few studies have examined this phenomenon and its association with student’s relationship with their family, friends, other interna-tional students and academic stress. Em-ploying a cross sectional survey method-ology with stratified sampling at the Uni-versity of Waterloo, we try to predict whether or not a student is prone to Home-sickness based on a number of demo-graphic variables about the student and environmental variables about the Univer-sity. We also perform algorithms to find out the variables that show strong associa-tion with the feeling of Homesickness.
+
+Link to survey : https://docs.google.com/forms/d/e/1FAIpQLSel8I1E2IL9L4N2VvgrZ16N3iOwb9gXWSvKt6WA4TkTLc9GIQ/viewform?vc=0&c=0&w=1
